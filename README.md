@@ -136,6 +136,7 @@
     4. Default Button
 
 14. Connect Login API To MongoDB Atlas
+
     1. Moving Apis into routers
     2. Create MongoDB Atlas
     3. Create .env file
@@ -146,3 +147,9 @@
        4. express-async-handler
     5. Connect to MongoDB Atlas
     6. Use MongoDB instead of data.ts in apis
+
+15. Register User
+    1. Add Register api
+    2. Add Register service method
+    3. Add Register link
+    4. Add Register Component
